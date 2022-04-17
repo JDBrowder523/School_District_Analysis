@@ -52,7 +52,7 @@ The purpose of this analysis was to determine if there was any falsified testing
   
 #### Scores by school size
 
-  -Replacing the 9th grade math and reading scores resulted in a negligible change in school scores based on size.  When rounded to the nearest whole number, the numbers for the two analysis are the same.
+  -Replacing the 9th grade math and reading scores resulted in a negligible change in school scores based on size for the medium size schools, which is the category that Thomas High School belongs to.  In order to see a difference in the overall passing percentage, the data had to be formatted to show the hundredths place.  When rounded to the nearest whole number, the numbers for the two analysis are the same.
   
    -Original Analysis:
   ![This is an image](https://github.com/JDBrowder523/School_District_Analysis/blob/main/Resources/scores_by_size1.png)
@@ -62,7 +62,7 @@ The purpose of this analysis was to determine if there was any falsified testing
   
 #### Scores by school type
 
-  -Replacing the 9th grade math and reading scores resulted in a negligible change in school scores based on school type.  When rounded to the nearest whole number, the numbers for the two analysis are the same.
+  -Replacing the 9th grade math and reading scores resulted in a negligible change in school scores based on school type.  The charter school category was lower by less than five hundredths of a percent.  In order to see a difference in the overall passing percentage, the data had to be formatted to show the hundredths place. When rounded to the nearest whole number, the numbers for the two analysis are the same.
   
    -Original Analysis:
   ![This is an image](https://github.com/JDBrowder523/School_District_Analysis/blob/main/Resources/scores_by_type1.png)
